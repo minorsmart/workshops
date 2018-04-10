@@ -19,7 +19,7 @@
 
 **Doel**: Deelnemer kan met Bootstrap een pagina professioneel opmaken
 
-**Product**: 'Hello world' teampagina met Bootstrap classes en navigatie
+**Product**: 'Hello world' teampagina met [Bootstrap](https://getbootstrap.com/) classes en navigatie
 
 ## Sessie 4
 **Thema**: JavaScript

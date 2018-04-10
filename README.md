@@ -5,7 +5,7 @@
 
 **Doel**: Deelnemer kan een simpel html skelet met css aankleding bouwen
 
-**Product**: 'Hello world' teampagina
+**Product**: 'Hello World' teampagina
 
 ## Sessie 2
 **Thema**: Interactieve elementen

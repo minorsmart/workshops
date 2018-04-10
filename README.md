@@ -26,7 +26,7 @@
 
 **Doel**: Deelnemer kan met JavaScript webelementen manipuleren
 
-**Product**: Webcontent met een grafiek
+**Product**: Webcontent met een [grafiek](https://www.highcharts.com/demo/line-labels)
 
 ## Sessie 5
 **Thema**: Databases

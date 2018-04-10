@@ -9,30 +9,22 @@ Het programma bestaat uit de volgende onderdelen:
 - **Product**: 'Hello World' teampagina
 
 ### Sessie 2
-**Thema**: Interactieve elementen
-
-**Doel**: Deelnemer kan met CSS verschillende classes opmaken (inclusief interactie)
-
-**Product**: 'Hello world' teampagina uitgebreid met interactieve elementen
+- **Thema**: Interactieve elementen
+- **Doel**: Deelnemer kan met CSS verschillende classes opmaken (inclusief interactie)
+- **Product**: 'Hello world' teampagina uitgebreid met interactieve elementen
 
 ### Sessie 3
-**Thema**: Bootstrap
-
-**Doel**: Deelnemer kan met Bootstrap een pagina professioneel opmaken
-
-**Product**: 'Hello world' teampagina met [Bootstrap](https://getbootstrap.com/) classes en navigatie
+- **Thema**: Bootstrap
+- **Doel**: Deelnemer kan met Bootstrap een pagina professioneel opmaken
+- **Product**: 'Hello world' teampagina met [Bootstrap](https://getbootstrap.com/) classes en navigatie
 
 ### Sessie 4
-**Thema**: JavaScript
-
-**Doel**: Deelnemer kan met JavaScript webelementen manipuleren
-
-**Product**: Webcontent met een [grafiek](https://www.highcharts.com/demo/line-labels)
+- **Thema**: JavaScript
+- **Doel**: Deelnemer kan met JavaScript webelementen manipuleren
+- **Product**: Webcontent met een [grafiek](https://www.highcharts.com/demo/line-labels)
 
 ### Sessie 5
-**Thema**: Databases
-
-**Doel**: Deelnemer kan data verzamelen op een website en deze in een database opslaan
-
-**Product**: Webformulier en visualisatie verzamelde data
+- **Thema**: Databases
+- **Doel**: Deelnemer kan data verzamelen op een website en deze in een database opslaan
+- **Product**: Webformulier en visualisatie verzamelde data
 

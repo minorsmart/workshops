@@ -3,7 +3,7 @@
 ## Sessie 1
 **Thema**: HTML & inline CSS
 
-**Doel**: Deelnemer kan een simpel html skelet met css aankleding bouwen
+**Doel**: Deelnemer kan een simpel [html-skelet met css aankleding](https://medium.freecodecamp.org/learn-html-in-5-minutes-ccd378d2ab72) bouwen
 
 **Product**: 'Hello World' teampagina
 

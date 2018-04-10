@@ -1,4 +1,8 @@
-# Welkom bij de Web Dev Basics workshop!
+# Web Dev Basics workshop
+Dit is de repository voor de workshop *Web Dev Basics*. Hier vind je alle source files. De cursuspagina staat hier:
+http://msi.bkhan.nl/programmeren/
+
+Het programma bestaat uit de volgende onderdelen:
 
 ## Sessie 1
 **Thema**: HTML & inline CSS
